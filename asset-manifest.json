@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0757e323.css",
+    "main.js": "./static/js/main.8afc0514.js",
+    "static/media/anasayfa.mp4": "./static/media/anasayfa.2b20d8171ea78af76bb0.mp4",
+    "index.html": "./index.html",
+    "main.0757e323.css.map": "./static/css/main.0757e323.css.map",
+    "main.8afc0514.js.map": "./static/js/main.8afc0514.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0757e323.css",
+    "static/js/main.8afc0514.js"
+  ]
+}
